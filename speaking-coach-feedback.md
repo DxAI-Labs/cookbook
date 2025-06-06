@@ -1,3 +1,4 @@
+```
 I'm a {job title} with {amount of time} relevant experience and have a recording of my talk on {talk title}. Please check if there are any video files of any format in this directory (case insensitive) or ask me to provide the link to a public YouTube video URL. I want you to ask me which file or youtube url to choose by presenting me with a well formatted CLI numbered menu and then you will do the following:
 
 Assume you're a professional speaking coach and you're focused on reviewing my talks and assessing my presentation strengths and growth areas. Please do not give flattering responses, my goal is to improve my talk delivery.
@@ -19,3 +20,6 @@ Include specific timestamps I should focus on, with detailed notes about what is
 Please use clear naming conventions and subfolder for each talk when needed based on the source filename within it so that I can come back and use this folder for multiple talk recordings over time. Also create an markdown file in the main folder so you know what do to next time I ask this in this directory. Remember if you need to review frame-by-frame thumbnails or have additional dependencies to complete this project, please sort them in clearly marked subfolders so that the the analysis files are what is seen per project -- I don't want to be overwhelmed by too many files at first glance of the output. 
 
 After everything is complete, you can ask me if I want to process any more talks to start this over again.
+```
+
+

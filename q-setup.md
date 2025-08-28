@@ -1,4 +1,5 @@
 # Getting started with Amazon Q CLI
+by [Chris Trag](https://trag.dev)
 
 I originally thought the term “vibe coding” was so silly until I tried it out for the first time last month. Having a startup background and a knack for thinking up hackathon project ideas is a killer skill for this line of prototyping.
 
